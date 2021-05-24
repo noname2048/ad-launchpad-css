@@ -2,6 +2,7 @@
 
 런치패드 처럼 작동하는 인터렉티브 css 만들기
 
+![May-24-2021 09-17-43](https://user-images.githubusercontent.com/18102537/119281763-dffa9600-bc71-11eb-9e4b-5149b219b014.gif)
 
 
 ## 출처
@@ -18,7 +19,10 @@
 
 챌린지
 - [x] 그리드의 경우에 justify-items 다. flex의 jusitfy-content 와는 다르다.
-- [x] 
+- [x] setAttribute 를 이용하여 값을 저장할 수 있다.
+
+영상
+- [x] giphy 캡쳐시 화살표를 보이게 캡쳐하는 것이 더 좋다.
 
 ## 챌린지 내용
 
